@@ -1,0 +1,45 @@
+#biscoito{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-block: 3.2rem;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #DDD;
+    gap: 1rem;
+    width: 31.25rem;
+    height: 50rem;
+    border-radius: 30px;
+}
+
+.img{
+    width: 18.75rem;
+    height: 18.75rem;
+    margin-top: 50px;
+}
+
+.frase{
+    font-style: italic;
+    color: #E99040;
+    text-align: center;
+}
+
+.botao{
+    background-color: #E99040;
+    padding-inline: 1rem;
+    padding-block: 0.5rem;
+    border-radius: 20px;
+    box-shadow: 1px 1px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.botao:hover{
+    cursor: pointer;
+    background-color: #dd7b22;
+    color: white;
+}
