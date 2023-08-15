@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/BiscoitoDaSorte/static/css/main.7ec47031.css",
+    "main.js": "/BiscoitoDaSorte/static/js/main.e125dc8a.js",
+    "static/media/biscoito.png": "/BiscoitoDaSorte/static/media/biscoito.10574f4adcfea1c07e1c.png",
+    "index.html": "/BiscoitoDaSorte/index.html",
+    "main.7ec47031.css.map": "/BiscoitoDaSorte/static/css/main.7ec47031.css.map",
+    "main.e125dc8a.js.map": "/BiscoitoDaSorte/static/js/main.e125dc8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ec47031.css",
+    "static/js/main.e125dc8a.js"
+  ]
+}
